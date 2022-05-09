@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+.top-tags {
+  bottom: auto;
+  top: 35px;
+}
+
+.tags {
+  color: var(--clr-secondary);
+  position: absolute;
+  bottom: 100% - 900%;
+  left: 160px;
+
+  font-family: "Sacramento";
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 41px;
+}
